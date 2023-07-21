@@ -1,0 +1,18 @@
+.img{
+    width: 20%;
+}
+
+.navlink{
+    margin: 0px 10px;
+    font-size:19px;
+    font-weight: 500;
+}
+.navbar-brand{
+    margin: 0px 20px;
+}
+.navbar-bg{
+    background-color: #990000!important;
+}
+.navlink:hover{
+    color: #f8f8f8!important;
+}

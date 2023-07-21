@@ -1,0 +1,22 @@
+.img-err{
+    position: absolute;
+    top: 34%;
+    left: 38%;
+    height: 400px;
+ } 
+.pagenotfound{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    top: 20%;
+    left :35%;
+
+}
+.error-page{
+  height: 500px;
+  width: 700px;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  box-shadow: 0.5px 0.5px 20px 0.5px rebeccapurple ;
+}

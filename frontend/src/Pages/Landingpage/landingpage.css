@@ -1,0 +1,65 @@
+.type-writer {
+  font-size: 40px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.type-writerposition {
+  position: absolute;
+  z-index: 55;
+  top: 30%;
+}
+.btn:hover {
+  color: rgb(250, 172, 3) !important;
+}
+.color-red {
+  color: red !important;
+}
+
+.bg-img-1 {
+  height: 200px;
+  background-image: url("../../Assets/bloodgroup.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.bg-img-2 {
+  height: 200px;
+  background-image: url("../../Assets/abc.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.bg-img-3 {
+  height: 200px;
+  background-image: url("../../Assets/abccc.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.images {
+  background-color: #cd8282;
+}
+
+/* scroll-top-btn */
+.scroll-top-btn {
+  height: 45px;
+  width: 45px;
+  border-radius: 10%;
+  background-color: #cd8282;
+  text-align: center;
+  float: right;
+  position: fixed;
+  bottom: 5%;
+  right: 1%;
+  padding-top: 7px;
+}
+.scroll-top-btn:hover{
+    color:crimson;
+}
+
+@media only screen and (max-width: 767px) {
+
+  .type-writerposition{
+position: static;
+  }
+}

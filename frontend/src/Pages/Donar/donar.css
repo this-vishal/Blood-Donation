@@ -1,0 +1,25 @@
+.aboutus{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    background-color:rgb(238, 231, 228);
+  align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 150px;
+}
+.form-position{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: -30px;
+}
+form{
+  background-color:rgb(209, 176, 176);
+    border-radius: 20px;
+    width: 90%;
+} 
+.btn-outline-dark{
+    margin-bottom: 10px;
+}
